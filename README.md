@@ -12,3 +12,4 @@ seven edit
 remote edit
 remote edit
 eight edit
+night edit
