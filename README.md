@@ -3,7 +3,7 @@ just junior  add somke
 remote edit add other
 second edit add other
 remote edit add other
-thrid edit
+thrid edit add  other
 remote edit
 four edit
 five edit
