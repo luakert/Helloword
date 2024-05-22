@@ -1,7 +1,7 @@
 # Helloword
 just junior  add somke 
 remote edit add other
-second edit
+second edit add other
 remote edit
 thrid edit
 remote edit
